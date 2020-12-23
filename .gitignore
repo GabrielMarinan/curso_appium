@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/.idea/*.xml
+# Compiled class file
+/gradle
+.gradle
+/.idea
+.idea
+/allure-results
+allure-results
+/build
+build
+/out
+out
+/test-output
+/apps
+apps
+*.apk
